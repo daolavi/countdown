@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <Countdown date="February 5, 2019"></Countdown>
+      <Countdown date="January 01, 2020"></Countdown>
   </div>
 </template>
 
@@ -16,7 +16,7 @@ export default {
 #app{
     align-items: center;
     bottom: 0;
-    background-color: #34495e;
+    background-color: #FF4500;
     display: flex;
     justify-content: center;
     left: 0;
