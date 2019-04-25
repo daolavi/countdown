@@ -68,7 +68,7 @@ export default {
 }
 
 .text {
-    color: #FFFF00;
+    color: #acb1f1;
     font-size: 40px;
     font-family: 'Roboto Condensed', serif;
     font-weight: 400;
@@ -78,7 +78,7 @@ export default {
 }
 
 .digit {
-    color: #FFFF00;
+    color: #acb1f1;
     font-size: 150px;
     font-weight: 100;
     font-family: 'Roboto', serif;
