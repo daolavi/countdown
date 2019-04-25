@@ -16,7 +16,7 @@ export default {
 #app{
     align-items: center;
     bottom: 0;
-    background-color: #FF4500;
+    background-color: #292b33;
     display: flex;
     justify-content: center;
     left: 0;
