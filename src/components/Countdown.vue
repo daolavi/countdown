@@ -39,7 +39,7 @@ export default {
 
   computed: {
     seconds() {
-      const second = (this.date - this.now) % 60;
+      const seconds = (this.date - this.now) % 60;
       const seconds_two_digits = seconds.toString().padStart(2, "0");
       return seconds_two_digits;
     },
