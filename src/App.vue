@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <Countdown date="January 01, 2020"></Countdown>
+      <Countdown date="January 01, 2021"></Countdown>
   </div>
 </template>
 
